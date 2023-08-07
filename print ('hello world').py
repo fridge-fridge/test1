@@ -1,1 +1,1 @@
-print ('hello world 555')
+print ('world 555')
